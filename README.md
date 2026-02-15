@@ -32,7 +32,7 @@ Many well-known platforms and tools are built with Go, including **Docker, Kuber
 
 ## Table of Contents
 
-- [Go Installation](./docs/01_GoInstallation.md)
+- [Introduction](./docs/01_Introduction.md)
 
 ## References
 
