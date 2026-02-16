@@ -264,7 +264,7 @@ func main() {
 
 In Go, a string is a sequence of bytes.
 
-Strings in Go are declared either using double quotes as in "`Hello World"` or back ticks as in `` `Hello World` ``.
+Strings in Go are declared either using double quotes as in `"Hello World"` or back ticks as in `` `Hello World` ``.
 
 ```go
 // Normal String (Can not contain newlines, and can have escape characters like '\n', '\t', etc.)

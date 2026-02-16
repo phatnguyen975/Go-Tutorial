@@ -36,6 +36,7 @@ Many well-known platforms and tools are built with Go, including **Docker, Kuber
 - [02. Hello World](./docs/02_HelloWorld.md)
 - [03. Variables and Data Types](./docs/03_VariablesAndDataTypes.md)
 - [04. Basic Types and Type Conversion](./docs/04_BasicTypesAndTypeConversion.md)
+- [05. Working with Constants](./docs/05_WorkingWithConstants.md)
 
 ## References
 
