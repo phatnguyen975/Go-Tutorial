@@ -32,7 +32,8 @@ Many well-known platforms and tools are built with Go, including **Docker, Kuber
 
 ## Table of Contents
 
-- [Introduction](./docs/01_Introduction.md)
+- [01. Introduction](./docs/01_Introduction.md)
+- [02. Hello World](./docs/02_HelloWorld.md)
 
 ## References
 
