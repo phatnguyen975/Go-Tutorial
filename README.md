@@ -39,6 +39,7 @@ Many well-known platforms and tools are built with Go, including **Docker, Kuber
 - [05. Working with Constants](./docs/05_WorkingWithConstants.md)
 - [06. Conditional Statements](./docs/06_ConditionalStatements.md)
 - [07. Iteration](./docs/07_Iteration.md)
+- [08. Functions](./docs/08_Functions.md)
 
 ## References
 
