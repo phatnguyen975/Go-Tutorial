@@ -37,6 +37,7 @@ Many well-known platforms and tools are built with Go, including **Docker, Kuber
 - [03. Variables and Data Types](./docs/03_VariablesAndDataTypes.md)
 - [04. Basic Types and Type Conversion](./docs/04_BasicTypesAndTypeConversion.md)
 - [05. Working with Constants](./docs/05_WorkingWithConstants.md)
+- [06. Conditional Statements](./docs/06_ConditionalStatements.md)
 
 ## References
 
