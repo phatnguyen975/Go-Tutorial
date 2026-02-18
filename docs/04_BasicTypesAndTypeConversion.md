@@ -264,6 +264,10 @@ func main() {
 
 In Go, a string is a sequence of bytes.
 
+- Is **immutable** (cannot be changed after creation).
+- Is a **read-only slice of bytes**.
+- Commonly contains **UTF-8 encoded text**.
+
 Strings in Go are declared either using double quotes as in `"Hello World"` or back ticks as in `` `Hello World` ``.
 
 ```go
