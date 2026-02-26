@@ -45,6 +45,7 @@ Many well-known platforms and tools are built with Go, including **Docker, Kuber
 - [11. Slices](./docs/11_Slices.md)
 - [12. Maps](./docs/12_Maps.md)
 - [13. Pointers](./docs/13_Pointers.md)
+- [14. Structs](./docs/14_Structs.md)
 
 ## References
 
