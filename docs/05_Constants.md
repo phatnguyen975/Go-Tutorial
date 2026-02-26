@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Working with Constants</h1>
+  <h1>Constants</h1>
   <small>
     <strong>Author:</strong> Nguyễn Tấn Phát
   </small> <br />

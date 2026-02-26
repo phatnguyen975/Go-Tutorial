@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Working with Arrays</h1>
+  <h1>Arrays</h1>
   <small>
     <strong>Author:</strong> Nguyễn Tấn Phát
   </small> <br />
