@@ -48,9 +48,11 @@ Many well-known platforms and tools are built with Go, including **Docker, Kuber
 - [14. Structs](./docs/14_Structs.md)
 - [15. Methods](./docs/15_Methods.md)
 - [16. Interfaces](./docs/16_Interfaces.md)
+- [17. File Handling](./docs/17_FileHandling.md)
 
 ## References
 
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
 - [Go by Example](https://gobyexample.com/)
 - [Callicoder](https://github.com/callicoder/golang-tutorials/tree/master)
+- [Golangbot](https://golangbot.com/learn-golang-series/)
