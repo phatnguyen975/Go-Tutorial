@@ -50,6 +50,9 @@ Many well-known platforms and tools are built with Go, including **Docker, Kuber
 - [16. Interfaces](./docs/16_Interfaces.md)
 - [17. Generics](./docs/17_Generics.md)
 - [18. File Handling](./docs/18_FileHandling.md)
+- [19. Defer](./docs/19_Defer.md)
+- [20. Error Handling](./docs/20_ErrorHandling.md)
+- [21. Goroutines](./docs/21_Goroutines.md)
 
 ## References
 
