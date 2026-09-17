@@ -210,7 +210,7 @@ func fanIn(sources ...<-chan int) <-chan int {
 
 ### 7.3 When Not to Close at All
 
-If a channel is used for the entire lifetime of the program (e.g., a control/command channel that's simply garbage collected when the program exits), it's perfectly acceptable to never close it. Channels are not like file handles — there's no resource leak from an unclosed channel by itself, as long as nothing is left permanently blocked waiting on it (which _would_ be a goroutine leak — see the companion guide on goroutines).
+If a channel is used for the entire lifetime of the program (e.g., a control/command channel that's simply garbage collected when the program exits), it's perfectly acceptable to never close it. Channels are not like file handles — there's no resource leak from an unclosed channel by itself, as long as nothing is left permanently blocked waiting on it (which _would_ be a goroutine leak: a goroutine stuck forever on a channel operation with no way to unblock, which keeps its stack and any resources it holds alive for as long as the program runs).
 
 ## 8. Ranging Over a Channel
 
