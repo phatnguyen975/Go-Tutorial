@@ -3,7 +3,7 @@
   <small>
     <strong>Author:</strong> Nguyễn Tấn Phát
   </small> <br />
-  <sub>February 27, 2026</sub>
+  <sub>September 18, 2026</sub>
 </div>
 
 ## Table of Contents
