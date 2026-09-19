@@ -52,7 +52,7 @@ Many well-known platforms and tools are built with Go, including **Docker, Kuber
 - [18. Panic and Recovery](./docs/18_PanicAndRecovery.md)
 - [19. Goroutines](./docs/19_Goroutines.md)
 - [20. Channels](./docs/20_Channels.md)
-- [21. Advanced Topcis](./docs/21_AdvancedTopics.md)
+- [21. Advanced Topics](./docs/21_AdvancedTopics.md)
 
 ## References
 
